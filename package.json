@@ -1,0 +1,26 @@
+{
+  "name": "workout_tracker",
+  "version": "1.0.0",
+  "description": "We'll create a workout tracker. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.17",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abiryusuf/Workout_Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abiryusuf/Workout_Tracker/issues"
+  },
+  "homepage": "https://github.com/abiryusuf/Workout_Tracker#readme"
+}
